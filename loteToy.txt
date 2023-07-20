@@ -1,0 +1,8 @@
+Toy [id=2, name=Robot, quantity=250, frequency=30.0]
+Toy [id=6, name=Matryoshka, quantity=200, frequency=25.0]
+Toy [id=0, name=Barbie doll, quantity=10, frequency=25.0]
+Toy [id=4, name=Puzzles, quantity=500, frequency=45.0]
+Toy [id=7, name=Ball, quantity=40, frequency=20.0]
+Toy [id=5, name=Board game, quantity=300, frequency=35.0]
+Toy [id=3, name=Yula, quantity=150, frequency=65.0]
+Toy [id=1, name=Constructor Lego, quantity=200, frequency=40.0]
